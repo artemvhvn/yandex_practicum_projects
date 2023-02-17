@@ -34,5 +34,3 @@
 *A/B-тестирование*, *проверка статистических гипотез*
 
 *python*, *pandas*, *numpy*, *matplotlib*, *scipy*, *datetime* 
-
-

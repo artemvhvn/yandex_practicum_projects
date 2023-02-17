@@ -31,6 +31,7 @@
 
 
 ## Навыки и инструменты
-*python, *pandas*, *numpy*, *matplotlib*, *scipy*, *datetime*, *A/B-тестирование*, *проверка статистических гипотез*
+*A/B-тестирование*, *проверка статистических гипотез*
+*python*, *pandas*, *numpy*, *matplotlib*, *scipy*, *datetime* 
 
 

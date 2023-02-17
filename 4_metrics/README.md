@@ -44,4 +44,4 @@
 ## Навыки и инструменты
 *когортный анализ*, *продуктовые метрики*, *юнит-экономика*
 
-*pandas*, *numpy*, *matplotlib*, *seaborn*, *datetime*
+*python*, *pandas*, *numpy*, *matplotlib*, *seaborn*, *datetime*
